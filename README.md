@@ -75,6 +75,7 @@ mindmap
     libhyper
     libclipp
     liblexer
+    libparser
 ```
 
 ## Stats
