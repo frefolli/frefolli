@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Francesco Refolli
 - 👀 I’m interested in Computer Science and Railways
-- 📚 I’m currently on 1st year of Master's Degree in Computer Science at Universita' degli studi di Milano Bicocca (just waiting to enroll :))
+- 📚 I’m currently on 1st year of Master's Degree in Computer Science at Universita' degli studi di Milano Bicocca
 - 🛠️ I’m working as Software Engineer at Binary System SRL
 - 💞️ I’m looking to add java.util.Scanner.nextChar() method
 
@@ -76,6 +76,8 @@ mindmap
     libclipp
     liblexer
     libparser
+    liblogger
+    libajax
 ```
 
 ## Stats
