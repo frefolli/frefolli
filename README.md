@@ -65,21 +65,6 @@ mindmap
     Meson
 ```
 
-## Libraries
-
-```mermaid
-mindmap
-  root(Libraries)
-    libgc
-    libutils
-    libhyper
-    libclipp
-    liblexer
-    libparser
-    liblogger
-    libajax
-```
-
 ## Stats
 
 <center>
