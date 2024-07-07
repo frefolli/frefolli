@@ -1,0 +1,110 @@
+Profile:
+  username: frefolli
+  twinname: windflaag
+  name: Francesco
+  surname: Refolli
+  age: 22
+  country: Italy
+  Interests:
+    - Computer Science
+    - Railways
+    - Fitness
+    - Linguistics
+    - Electronics
+    - Math
+  Education:
+    Now:
+      grade: "Master's Degree"
+      topic: "Computer Science"
+      year: "1st"
+      institute: "Universita' degli studi di Milano-Bicocca"
+    Olds:
+      - grade: "Bachelor's Degree"
+        topic: "Computer Science"
+        institute: "Universita' degli studi di Milano-Bicocca"
+        mark: 107
+        max_mark: 110
+        thesis: A language-agnostic framework to build source code dependency graph
+  Jobs:
+    Olds:
+      - profession: "Software Engineer"
+        place: "Binary System SRL"
+        Contributions:
+          - Deadline calculation
+          - Backend imports
+          - Frontend interfaces reimplementation
+  Future:
+    - "add java.util.Scanner.nextChar() method (kinda an old meme at this point)"
+    - "rewrite the C++ world in Meson"
+    - "drive locomotives/trains across Europe"
+Skills:
+  Programming Languages:
+    Proficient:
+      - Java
+      - C++
+      - C
+      - Rust
+      - Prolog
+      - Lisp
+      - Python
+      - Javascript
+      - Ruby
+    Amateur:
+      - Haskell
+      - Julia
+      - PHP
+  Linux Distros:
+    Now:
+      - Arch Linux
+      - OpenSUSE
+      - Debian
+      - Void
+    Past:
+      - Fedora
+      - Slackware
+      - Gentoo
+  Text Editors:
+    Now:
+      - Vim
+      - Neovim
+      - VS Code
+    Past:
+      - Emacs
+      - Notepad++
+  Technologies:
+    Now:
+      - Meson
+      - RPM
+      - Arch Build System
+    Past:
+      - Node JS
+      - React JS
+      - Docker
+      - Java Spring
+      - Facebook Proxygen
+      - CMake
+Projects:
+  University:
+    - skullian
+    - dcct
+    - dasscc
+    - genomic
+    - sigmod
+    - orcan
+    - argos-experiments
+    - oop-ext
+    - sistema-bancario
+    - rotatlon
+  Personal:
+    - stardock
+    - deporter
+    - eurogen
+    - cppunit
+    - sexpresso
+    - pkgbuilder
+    - pome/some
+    - refos
+Stats:
+  timeline: true
+  languages: true
+  trophies: true
