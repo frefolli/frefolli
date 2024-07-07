@@ -2,7 +2,9 @@
 
 I'm Refolli Francesco, 22, from Italy.
 
-My second Github account is [windflaag](github.com/windflaag)## Interests
+My second Github account is [windflaag](github.com/windflaag)
+
+## Interests
 
 ```mermaid
 mindmap
