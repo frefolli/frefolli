@@ -38,6 +38,12 @@ I graduated with 107 out of 110
 
 I used to work for Binary System SRL as Software Engineer.
 
+Some notable contributions:
+
+ - Deadline calculation
+ - Backend imports
+ - Frontend interfaces reimplementation
+
 ## My Future
 
 Here are some funny things I would like to do in the future:
