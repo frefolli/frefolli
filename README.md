@@ -30,6 +30,8 @@ My thesis was "A language-agnostic framework to build source code dependency gra
 
 I graduated with 107 out of 110
 
+## Jobs
+
 ### Software Engineer
 
 I used to work for Binary System SRL as Software Engineer.
