@@ -22,7 +22,9 @@ mindmap
 
 ### Master's Degree
 
-I'm currently studying for the 1st year of Master's Degree in Computer Science at Universita' degli studi di Milano-Bicocca### Bachelor's Degree
+I'm currently studying for the 1st year of Master's Degree in Computer Science at Universita' degli studi di Milano-Bicocca
+
+### Bachelor's Degree
 
 I used to study Bachelor's Degree in Computer Science at Universita' degli studi di Milano-Bicocca.
 
