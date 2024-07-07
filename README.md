@@ -2,7 +2,7 @@
 
 I'm Refolli Francesco, 22, from Italy.
 
-My second Github account is [windflaag](github.com/windflaag)
+My second Github account is [windflaag](https://github.com/windflaag)
 
 ## Interests
 
