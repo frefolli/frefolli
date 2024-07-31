@@ -3,7 +3,7 @@ Profile:
   twinname: windflaag
   name: Francesco
   surname: Refolli
-  age: 22
+  age: 23
   country: Italy
   Interests:
     - Computer Science
@@ -16,7 +16,7 @@ Profile:
     Now:
       grade: "Master's Degree"
       topic: "Computer Science"
-      year: "1st"
+      year: "2st"
       institute: "Universita' degli studi di Milano-Bicocca"
     Olds:
       - grade: "Bachelor's Degree"
@@ -88,7 +88,7 @@ Projects:
     - skullian
     - dcct
     - dasscc
-    - genomic
+    - python-genomic
     - sigmod
     - orcan
     - argos-experiments

@@ -1,6 +1,6 @@
 # frefolli 
 
-I'm Refolli Francesco, 22, from Italy.
+I'm Refolli Francesco, 23, from Italy.
 
 My second Github account is [windflaag](https://github.com/windflaag)
 
@@ -22,7 +22,7 @@ mindmap
 
 ### Master's Degree
 
-I'm currently studying for the 1st year of Master's Degree in Computer Science at Universita' degli studi di Milano-Bicocca
+I'm currently studying for the 2st year of Master's Degree in Computer Science at Universita' degli studi di Milano-Bicocca
 
 ### Bachelor's Degree
 
@@ -136,7 +136,7 @@ mindmap
       skullian
       dcct
       dasscc
-      genomic
+      python-genomic
       sigmod
       orcan
       argos-experiments
