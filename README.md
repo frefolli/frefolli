@@ -83,11 +83,11 @@ mindmap
   root(Linux Distros)
     ((Now))
       Arch Linux
-      OpenSUSE
+      Fedora
       Debian
       Void
     ((Past))
-      Fedora
+      OpenSUSE
       Slackware
       Gentoo
 ```
@@ -144,6 +144,7 @@ mindmap
       sistema-bancario
       rotatlon
     ((Personal))
+      lartc
       stardock
       deporter
       eurogen

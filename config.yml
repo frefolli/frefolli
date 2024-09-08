@@ -56,11 +56,11 @@ Skills:
   Linux Distros:
     Now:
       - Arch Linux
-      - OpenSUSE
+      - Fedora
       - Debian
       - Void
     Past:
-      - Fedora
+      - OpenSUSE
       - Slackware
       - Gentoo
   Text Editors:
@@ -96,6 +96,7 @@ Projects:
     - sistema-bancario
     - rotatlon
   Personal:
+    - lartc
     - stardock
     - deporter
     - eurogen
