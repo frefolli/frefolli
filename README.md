@@ -109,9 +109,9 @@ mindmap
     ((Now))
       Vim
       Neovim
-      VS Code
     ((Past))
       Emacs
+      VS Code
       Notepad++
 ```
 
@@ -125,10 +125,10 @@ mindmap
       Meson
       RPM
       Arch Build System
+      Docker
     ((Past))
       Node JS
       React JS
-      Docker
       Java Spring
       Facebook Proxygen
       CMake
