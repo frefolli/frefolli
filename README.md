@@ -1,6 +1,6 @@
 # frefolli 
 
-I'm Refolli Francesco, 23, from Italy.
+I'm Refolli Francesco, 24, from Italy.
 
 My second Github account is [windflaag](https://github.com/windflaag)
 
@@ -20,9 +20,17 @@ mindmap
 
 ## Education
 
+### PhD Program in Computer Science
+
+I'm currently enrolled in the 1st year of PhD Program in Computer Science at Universita' degli studi di Milano-Bicocca
+
 ### Master's Degree
 
-I'm currently studying for the 2st year of Master's Degree in Computer Science at Universita' degli studi di Milano-Bicocca
+I used to study Master's Degree in Computer Science at Universita' degli studi di Milano-Bicocca.
+
+My thesis was "Unconventional reinforcement learning on traffic lights with SUMO"
+
+I graduated with 110 out of 110 cum Laude
 
 ### Bachelor's Degree
 
